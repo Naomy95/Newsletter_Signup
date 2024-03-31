@@ -1,0 +1,35 @@
+.main-div{
+    background-color: rgb(57, 53, 92);
+    width: 1000px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-div{
+    background-color: white;
+    width: 70%;
+    height: 70%;
+    border-radius: 5%;
+    display: flex;
+    padding: 2%;
+}
+
+.input{
+    border-radius: 5px;
+    width: 90%;
+    height: 30px;
+    padding: 1%;
+    /* margin-right: 0px; */
+  }
+.subscribe{
+    border-radius: 5px;
+    background-color: rgb(1, 1, 63);
+    color: white;
+    width: 92%;
+    height: 40px;
+    /* padding: 1%; */
+    text-align: center;
+    /* margin-right: 0px; */
+  }
